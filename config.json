@@ -1,0 +1,138 @@
+{
+  "Config": [
+    {
+      "interval": 5,
+      "backup": "unity",
+      "status": true,
+      "link": "https://google.com/",
+      "contact": "https://google.com/",
+      
+      "addon": true,
+      "maps": false,
+      "texture": false,
+      "skin": true,
+      "more": false,
+      
+      "admob_open_ads": "ca-app-pub-3940256099942544/3419835294",
+      "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+      "admob_inter": "ca-app-pub-3940256099942544/1033173712",
+      "admob_native": "ca-app-pub-3940256099942544/2247696110",
+     
+      
+      "unity_banner": "Banner_Android",
+      "unity_inter": "Interstitial_Android",
+      
+      
+      "applovin_banner": "unitid",
+      "applovin_inter": "unitid",
+      "applovin_native": "unitid",
+      
+      "ironsource_banner": "1215fccad",
+      "ironsource_inter": "1215fccad"
+      
+      
+    }
+  ],
+  "Addon": [
+    {
+        "name": "GRX Tweaks v1.1.9 (UI Overlay Hider + Addon Update!)",
+        "role": "GRX Tweaks for Minecraft: Bedrock Edition for More Features! What is GRX Tweaks? GRX Tweaks is a Minecraft optimization resource pack. It allows Minecraft to run faster and look better with full support for better textures and many configuration options.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Night Vision/6/1.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Night Vision/6/GRXTweaks.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Night Vision/6/1.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Night Vision/6/1.png"
+    },
+    {
+        "name": "Night Vision Goggles Addon",
+        "role": "Are you tired of deinking night vision potions the whole time? Then this addon is perfect for you because it adds night vision goggles that you can put on your head and you never have to drink potions every 5 minutes and its also multiplayer compatible.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Night Vision/8/2.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Night Vision/8/1610480761038.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Night Vision/8/1.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Night Vision/8/1.png"
+    },
+    {
+        "name": "Merging Items 1.1.7 [Goodlands Update]",
+        "role": "In this addon, you can merge items and make better ones! They are extremely useful as well! If you like the idea of this addon, then read all about it! (Also: Suggest some more items in the comments!)",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Night Vision/11/3.jpeg",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Night Vision/11/Merging_Items__Version_1.0.4.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Night Vision/11/2.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Night Vision/11/1.jpeg"
+    },
+    {
+        "name": "Sapphire Expansion (Beta v9.1.7)",
+        "role": "Im sure you Never wanted more hostile mobs in the game, but what if I told you there are very powerful items and tools in this addon that can aid you in the game and with fighting off the hostile mobs in this addon.Im sure you Never wanted more hostile mobs in the game, but what if I told you there are very powerful items and tools in this addon that can aid you in the game and with fighting off the hostile mobs in this addon.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Night Vision/12/1.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Night Vision/12/NewSapphireExpansionV9.1.7_1605854732.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Night Vision/12/3.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Night Vision/12/2.png"
+    }
+  ],
+  "Map": [
+    {
+      "name": "",
+      "role": "",
+      "image": "",
+      "file_url": "",
+      "imgcoversatu": "",
+      "imgcoverdua": ""
+    }
+  ],
+  "Texture": [
+    {
+      "name": "",
+      "role": "",
+      "image": "",
+      "file_url": "",
+      "imgcoversatu": "",
+      "imgcoverdua": ""
+    }
+  ],
+  "Skins": [
+    {
+    "id": 1,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/yZ5kE9OxNoJosYBFIEvXUzsFajO2ELDuiNt_4dHKWrWoG9rhvHsGmZEmgE4jwCWz0Uzs-8WU3HpG00JmykTmJnmtXTH-lPrnw-U",
+    "view_skin": "https://lh3.googleusercontent.com/dIoi12mvj89wu_Hw8fLcMEXg7hAVZfJJ9uCSEZHaJwUSHRkpwBPN4l_PEUhlcbK2t8IOGzHZ6TFoGBWmZbj-wUf1cMDLMyBFRhI"
+  },
+  {
+    "id": 2,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/kYl_HCvpjs4kKmQYtdxbbTuF4KpIHPiQLgkIYt8poTCkrvZ9Uzl0qpKMeuTdnhxL4C2Z8HCZtgY52PfXEmWwujl6Fmo50agUqerx",
+    "view_skin": "https://lh3.googleusercontent.com/1TKIO4z9PfM8ZDu4s7hZ1IsnsuN7O5ICPycseJYWnmMpi4ayt6xm5o8oEg8fJNLk2cnFMZMfNWCtp26jsMJKSzKxDORikaq8W22n"
+  },
+  {
+    "id": 3,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/xAST-pj144HV62NACbRr09RtyjuXGcGbox5DIEJGLWw8f_jeMtGBPKA4cP8JuSKbb8F_0rstDSk9rKU3aZg5P-5EHRCVjdtN0eQ",
+    "view_skin": "https://lh3.googleusercontent.com/tRmoi8PduYopp_wQfiI064Zj1zp1-u38K5VbP-ZYLzd4EzVj9s___gWHY-ID9edCQhSmpe6iRx5LdZIb3hCBwQ"
+  },
+  {
+    "id": 4,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/xTpRe5IpDr2J-WWsSYGTyIb2YvVB2IWyI4671YjB7xuqPU1PiCZZ5qnRFwPP3PcwfZRMOp_1YKlTl7-t80ci7CgiDr0Cx3TJ0w",
+    "view_skin": "https://lh3.googleusercontent.com/LkSMZ8t408sTitcGsFDESNJA5TxSN9bwPhYE8ZP1JYQAgS05WuxUCU7Gt49QvgvS-a3ZRqB2Qsg5uLGuWaySd8x-w9FyP0Zh9n0"
+  },
+  {
+    "id": 5,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/gSQIp84DVG3nGJfi1LWMRiC9c_W0AznFG4vN3wv9WibqwycKDJ83awje6E-l7gyh8U7bwZPO3o6sQdlrGsrKE_9ZSRAeDJx0dA",
+    "view_skin": "https://lh3.googleusercontent.com/g1zDsLcSE4MzkTiOln_GZzm7QMeRQ5x6mtDgi4B3DUZJxR8OqK9tCQ_6Fwm2PfpZ2CsRH8pCOi6Z0364W1a0pYt9yq92QIQECA"
+  }
+  ],
+  "More":
+  [
+      
+      
+  
+    {
+      "id":1,
+      "title":"",
+      "image":"",
+      "link":"https://google.com/"
+    }
+  
+
+      
+      
+      ]
+}
