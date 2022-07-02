@@ -7,7 +7,7 @@
       "link": "https://google.com/",
       "contact": "https://google.com/",
       
-      "addon": true,
+      "addon": false,
       "maps": false,
       "texture": false,
       "skin": true,
@@ -35,36 +35,12 @@
   ],
   "Addon": [
     {
-        "name": "GRX Tweaks v1.1.9 (UI Overlay Hider + Addon Update!)",
-        "role": "GRX Tweaks for Minecraft: Bedrock Edition for More Features! What is GRX Tweaks? GRX Tweaks is a Minecraft optimization resource pack. It allows Minecraft to run faster and look better with full support for better textures and many configuration options.",
-        "image": "https://kossandroid.com/Data Android/Minecraft/Night Vision/6/1.png",
-        "file_url": "https://kossandroid.com/Data Android/Minecraft/Night Vision/6/GRXTweaks.mcaddon",
-        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Night Vision/6/1.png",
-        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Night Vision/6/1.png"
-    },
-    {
-        "name": "Night Vision Goggles Addon",
-        "role": "Are you tired of deinking night vision potions the whole time? Then this addon is perfect for you because it adds night vision goggles that you can put on your head and you never have to drink potions every 5 minutes and its also multiplayer compatible.",
-        "image": "https://kossandroid.com/Data Android/Minecraft/Night Vision/8/2.png",
-        "file_url": "https://kossandroid.com/Data Android/Minecraft/Night Vision/8/1610480761038.mcaddon",
-        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Night Vision/8/1.png",
-        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Night Vision/8/1.png"
-    },
-    {
-        "name": "Merging Items 1.1.7 [Goodlands Update]",
-        "role": "In this addon, you can merge items and make better ones! They are extremely useful as well! If you like the idea of this addon, then read all about it! (Also: Suggest some more items in the comments!)",
-        "image": "https://kossandroid.com/Data Android/Minecraft/Night Vision/11/3.jpeg",
-        "file_url": "https://kossandroid.com/Data Android/Minecraft/Night Vision/11/Merging_Items__Version_1.0.4.mcaddon",
-        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Night Vision/11/2.png",
-        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Night Vision/11/1.jpeg"
-    },
-    {
-        "name": "Sapphire Expansion (Beta v9.1.7)",
-        "role": "Im sure you Never wanted more hostile mobs in the game, but what if I told you there are very powerful items and tools in this addon that can aid you in the game and with fighting off the hostile mobs in this addon.Im sure you Never wanted more hostile mobs in the game, but what if I told you there are very powerful items and tools in this addon that can aid you in the game and with fighting off the hostile mobs in this addon.",
-        "image": "https://kossandroid.com/Data Android/Minecraft/Night Vision/12/1.png",
-        "file_url": "https://kossandroid.com/Data Android/Minecraft/Night Vision/12/NewSapphireExpansionV9.1.7_1605854732.mcaddon",
-        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Night Vision/12/3.png",
-        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Night Vision/12/2.png"
+      "name": "",
+      "role": "",
+      "image": "",
+      "file_url": "",
+      "imgcoversatu": "",
+      "imgcoverdua": ""
     }
   ],
   "Map": [
